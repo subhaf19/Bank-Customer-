@@ -1,2 +1,2 @@
 # Bank-Customer-
-Developed an ANN to predict leaving customer from the BANK
+Developed an ANN to predict the leaving customer of the BANK
